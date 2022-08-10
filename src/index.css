@@ -125,7 +125,7 @@ img {
 /* ============== MEDIA QUERIES (MEDIUM DEVICES) ============== */
 @media screen and (max-width: 1024px) {
     .container {
-        witdh: var(--container-width-md)
+        width: var(--container-width-md)
     }
 
     section{
@@ -139,7 +139,7 @@ img {
 /* ============== MEDIA QUERIES (SMALL DEVICES) ============== */
 @media screen and (max-width: 600px) {
     .container {
-        witdh: var(--container-width-sm)
+        width: var(--container-width-sm)
     }
 
     section > h2 {
