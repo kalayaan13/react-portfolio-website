@@ -8,7 +8,7 @@
 }
 
 .client__avatar {
-    width: 4rem;
+    width: 5rem;
     aspect-ratio: 1/1;
     overflow: hidden;
     border-radius: 50%;
@@ -19,6 +19,7 @@
 .testimonial {
     background: var(--color-bg-variant);
     text-align: center;
+    font-size: large;
     padding: 2rem;
     border-radius: 2rem;
     user-select: none;
